@@ -1,0 +1,14 @@
+YOUTH TRAVEL JOURNAL — BẢN IPHONE
+
+CÀI ĐẶT (cần đưa thư mục này lên hosting HTTPS trước)
+1. Đăng tải toàn bộ nội dung trong thư mục lên một dịch vụ hosting HTTPS tĩnh (ví dụ GitHub Pages hoặc Netlify). Giữ nguyên các file cùng thư mục.
+2. Mở đường dẫn website đã đăng tải bằng Safari trên iPhone.
+3. Nhấn nút Chia sẻ (ô vuông có mũi tên lên) → Thêm vào Màn hình chính → Thêm.
+4. Mở biểu tượng Youth Journal ngoài Màn hình chính để dùng như ứng dụng.
+
+LƯU DỮ LIỆU & CHUYỂN MÁY
+- Các chuyến đi và dự định tự lưu trên trình duyệt/thiết bị đang dùng; bản này chưa có đồng bộ đám mây tự động.
+- Trong ứng dụng, chọn “Sao lưu kỷ niệm (.json)” và lưu file vào iCloud Drive/Files hoặc nơi an toàn.
+- Khi đổi máy, mở ứng dụng trên máy mới, chọn “Khôi phục từ bản sao lưu” và chọn file JSON đó.
+- Nên sao lưu định kỳ. Ảnh được lưu kèm trong file JSON, vì vậy file có thể khá lớn.
+- Bản PWA có thể mở giao diện đã cache khi offline sau lần tải đầu, nhưng font Google cần Internet để tải nếu chưa được cache.
